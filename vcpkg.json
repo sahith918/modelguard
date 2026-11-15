@@ -1,0 +1,12 @@
+{
+  "name": "modelguard",
+  "version-string": "0.1.0",
+  "dependencies": [
+    "nlohmann-json",
+    "spdlog",
+    "cli11",
+    "tomlplusplus",
+    "libsodium",
+    "gtest"
+  ]
+}
